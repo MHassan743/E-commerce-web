@@ -2,7 +2,11 @@ body {
       font-family: 'Segoe UI', sans-serif;
       background-color: #fff;
     }
-
+ h1{
+       color: rgb(177, 231, 27);
+      font-weight: bold;
+      font-size: 1rem;
+ }
 .logo-text span {
       font-weight: bold;
       color: #f9a825; /* Yellowish for MART */
